@@ -14,3 +14,7 @@ i => to go into "walk through terrain" mode purpose is to get most out of perisc
 	isnt allowed to go below the height of the highest mountain, to get out can just keep moving up or press down arrow key as itd trigger the boundary code
 
 the hills are generated through a textfile those values can be changed, located in /bin/info.txt
+
+
+Aids:
+http://www.3dgep.com/texturing-and-lighting-with-opengl-and-glsl/
